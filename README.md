@@ -1,4 +1,5 @@
-# dice_game
+##آية محمد عوض عبدالقادر
+# Dice_game
 
 A simple Flutter Dice Game that allows the user to roll two dice, calculate their total, display
 a happy or sad image based on the result, and Show the text "You Win" or "You Lose" under the image.
