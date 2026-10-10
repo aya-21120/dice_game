@@ -1,4 +1,4 @@
-##آية محمد عوض عبدالقادر
+
 # Dice_game
 
 A simple Flutter Dice Game that allows the user to roll two dice, calculate their total, display
